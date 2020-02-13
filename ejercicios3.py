@@ -10,7 +10,7 @@ EJERCICIO #3
 Funcion que pida N numeros y los multiplique todos
 
 EJERCICIO #4
-Funcion que calcule el factorial de un numero (no recursividad)
+Funcion que calcule el factorial de un numero
 
 EJERCICIO #5
 Pide un string y debera imprimirse en orden reverso
